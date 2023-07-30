@@ -1,5 +1,10 @@
-body {
-    background-color: black;
-    align-items: center;
+.navbar {
+    position: absolute;
+        top: 5px;
+    }
+
+div.wrapper {
+    position: relative;
     text-align: center;
-}
+    color: white;
+    }
